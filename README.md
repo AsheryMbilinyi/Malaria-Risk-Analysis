@@ -17,8 +17,8 @@ Due to some challenges during data collection phase, the dataset resulted was of
 
 ## Results
 
-Despite the assumptions made , interesting results emerged especially in which are housing importance features that contributed in determining malaria vulnerability. The accuracy of classifiers was not high, 64 % achieved by XGBoost was the highest.
-3 most important features were :
+Despite the assumptions made , interesting results emerged especially in which are housing importance features that contributed in determining malaria vulnerability. The classifier's accuracies were not high, 64 % XGBoost was the highest.
+The three most important features were as follows :
 
 - Number of rooms for sleeping
 - The presence of eaves in the house
