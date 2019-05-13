@@ -24,6 +24,8 @@ The three most important features were as follows :
 - The presence of eaves in the house
 - The location of the kitchen
 
+The below pie chart shows the overall feature importancies
+
 ![alt text](https://github.com/AsheryMbilinyi/Analysis-of-Malaria-Risk-based-on-Housing-Conditions-in-Sub-Saharan-Africa/blob/master/features_importance.png)
 
 
