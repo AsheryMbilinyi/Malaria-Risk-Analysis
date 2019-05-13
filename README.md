@@ -24,7 +24,7 @@ Despite the assumptions made , interesting results emerged especially in which a
 - The presence of eaves in the house
 - The location of the kitchen
 
-
+![alt text](https://github.com/AsheryMbilinyi/Analysis-of-Malaria-Risk-based-on-Housing-Conditions-in-Sub-Saharan-Africa/blob/master/features_importance.png)
 
 
 
