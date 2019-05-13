@@ -28,6 +28,9 @@ The below pie chart shows the overall feature importancies
 
 ![alt text](https://github.com/AsheryMbilinyi/Analysis-of-Malaria-Risk-based-on-Housing-Conditions-in-Sub-Saharan-Africa/blob/master/features_importance.png)
 
+## Discussion
+
+The above features detected by a machine learning algorithm strongly correlate with the ground truth of malaria vulnerability with respect to the houses. For example, the higher the number of eaves the house have means the greater access mosquitoes have to enter the house especially at night. On the other hand, if kitchen is located inside the house mosquitoes faces difficulty due smoke produced by burning woods, while the kitchen outside the house favors mosquitoes.
 
 
 
