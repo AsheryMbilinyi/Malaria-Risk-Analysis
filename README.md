@@ -1,6 +1,6 @@
 # Analysis of Malaria Risk based on Housing Conditions in Sub-Saharan Africa
 
-The goal of this work was to reveal a causal inference on how housing conditions in Sub-Saharan Africa contributes in Malaria vulnerability to the inhabitants.
+The goal of this work was to reveal a causal inference on how housing conditions contributes in Malaria vulnerability to the inhabitants in Sub-Saharan Africa.
 
 ## Data
 Data was collected at Rusinga Island in Western Kenya which includes:-
