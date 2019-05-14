@@ -12,7 +12,7 @@ Data was collected at Rusinga Island in Western Kenya which includes:-
 
 Due to some challenges during the data collection phase, the dataset resulted was of very low quality and therefore a lot of assumptions had to be made for the dataset to be used in Machine Learning task of predicting malaria vulnerability. Some of those assumptions were:
 
--Each house was considered vulnerable if it has more than one inhabitant who tested positive in RDT ( so the actual number of who are positive or negative was ignored).
+Each house was considered vulnerable if it has more than one inhabitant who tested positive in RDT ( so the actual number of who are positive or negative was ignored).
 - The timing at when RDT were tested and house features where recorded were completely ignored since there were recorded inconsistently or missing some information.
 
 ## Results
