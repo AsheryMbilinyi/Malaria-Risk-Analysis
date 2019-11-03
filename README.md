@@ -17,7 +17,7 @@ Each house was considered vulnerable if it has more than one inhabitant who test
 
 ## Results
 
-Despite the assumptions made, interesting results emerged especially in which are housing important features that contribute in determining malaria vulnerability. The classifier's accuracies were not high though, 64 % by XGBoost was the highest.
+Despite the assumptions made, interesting results emerged especially in which are housing important features that contribute in determining malaria vulnerability.
 
 The three most important features in descending order were:-
 
@@ -31,7 +31,7 @@ The below pie chart shows the overall feature importancies
 
 ## Discussion
 
-The above features detected by a machine learning algorithm strongly correlate with the ground truth of malaria vulnerability with respect to houses. For example, the higher the number of eaves the house have means the greater access mosquitoes have to enter the house, especially at night. On the other hand, if the kitchen is located inside the house, mosquitoes face difficulty due to smoke produced by burning woods, while the kitchen outside the house favors mosquitoes.
+The above features detected by the XGBoost Classifier strongly correlate with the ground truth of malaria vulnerability with respect to houses. For example, the higher the number of eaves the house have means the greater access mosquitoes have to enter the house, especially at night. On the other hand, if the kitchen is located inside the house, mosquitoes face difficulty due to smoke produced by burning woods, while the kitchen outside the house favors mosquitoes.
 
 
 
